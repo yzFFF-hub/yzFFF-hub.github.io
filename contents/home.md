@@ -1,8 +1,8 @@
-[![yzFFF-hub](https://img.shields.io/badge/yzFFF-blue?logo=github)](https://github.com//yzFFF-hub)
 
 ### Contact
 📧 <code>yuzf930@gmail.com</code> | <code>yzf930@outlook.com</code> \
 📞 090-6249-5830 \
+[![yzFFF-hub](https://img.shields.io/badge/yzFFF-blue?logo=github)](https://github.com//yzFFF-hub)\
 🔗 [LinkedIn](#)
 
 [//]: # (#### Education  )
