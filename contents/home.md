@@ -46,7 +46,7 @@
 
 ### Skills
 
-**Programming Languages**: Python(Proficient), Java(Proficient), C++, Rust
+**Programming Languages**: Python, Java, C++, Rust
 
 **Databases**: MySQL, Redis, Neo4j
 
