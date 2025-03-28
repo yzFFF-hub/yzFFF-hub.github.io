@@ -1,0 +1,5 @@
+- **Takeout Ordering System** | Developed food delivery system with RESTful APIs/JWT auth, integrated MyBatis/Redis for DB optimization.  
+- **Movie QA Bot** | A movie knowledge question-answering chatbot based on existing data.
+- **TLSF in Rust** | An efficient and low-latency memory allocation algorithm for real-time operating systems.
+- **Chatbot Based on GPT-2** | An intelligent chatbot system using a GPT-2 model integrated with dual MMI and Dialog architectures
+- **Term Extraction System for Scientific Literature** | An automatic term extraction system that integrates statistical methods, clustering, and deep learning.

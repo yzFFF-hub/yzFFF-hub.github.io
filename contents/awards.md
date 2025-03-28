@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- First-Class Scholarship, 2021.  
+- Third-Class Scholarship, 2022
+- Third-Class Scholarship, 2020. 
