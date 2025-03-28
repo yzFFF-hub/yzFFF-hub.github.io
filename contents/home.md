@@ -1,8 +1,9 @@
-[![yzFFF-hub](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com//yzFFF-hub)
+[![yzFFF-hub](https://img.shields.io/badge/yzFFF-hub-github-blue?logo=github)](https://github.com//yzFFF-hub)
 
-### Email  
-<code>yuzf930@gmail.com</code>  
-<code>yzf930@outlook.com</code>
+### Contact
+📧 <code>yuzf930@gmail.com</code> | <code>yzf930@outlook.com</code> \
+📞 090-6249-5830 \
+🔗 [LinkedIn](#)
 
 [//]: # (#### Education  )
 
@@ -43,5 +44,19 @@
 
 [//]: # (🤖 Intelligence Science and Technology)
 
-### Research Interests  
+### Skills
+
+**Programming Languages**: Python(Proficient), Java(Proficient), C++, Rust
+
+**Databases**: MySQL, Redis, Neo4j
+
+**Machine Learning, Deep Learning**: Pytorch, tensorflow, sklearn
+
+**Web & Backend Development**: Spring Boot, PyQT
+
+**Web Scraping & Automation**: Web Scraping & Automation
+
+**Languages**: English (Fluent), Japanese (Intermediate)
+
+### Current Research Interests  
 My research currently focus on **Automatic Term Extraction (ATE)**, particularly in the context of academic literature. I am interested in developing novel methods to accurately extract domain-specific terms with minimal reliance on costly expert annotations. My work integrates techniques from **natural language processing (NLP)** and **deep learning**
