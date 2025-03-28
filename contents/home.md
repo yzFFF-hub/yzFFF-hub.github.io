@@ -1,4 +1,4 @@
-[![yzFFF-hub](https://img.shields.io/badge/yzFFF-hub-github-blue?logo=github)](https://github.com//yzFFF-hub)
+[![yzFFF-hub](https://img.shields.io/badge/yzFFF-blue?logo=github)](https://github.com//yzFFF-hub)
 
 ### Contact
 📧 <code>yuzf930@gmail.com</code> | <code>yzf930@outlook.com</code> \
