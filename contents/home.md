@@ -54,7 +54,7 @@
 
 **Web & Backend Development**: Spring Boot, PyQT
 
-**Web Scraping & Automation**: Web Scraping & Automation
+**Web Scraping & Automation**: Selenium, BeautifulSoup, Scrapy
 
 **Languages**: English (Fluent), Japanese (Intermediate)
 
